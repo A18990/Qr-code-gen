@@ -1,0 +1,6 @@
+{
+  "name": "CodeMitra - Free & Private QR Code Generator",
+  "description": "High-quality, privacy-first QR code generator with custom styling, logo overlays, vector SVG/PNG export, and bulk CSV generation. Runs 100% locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
